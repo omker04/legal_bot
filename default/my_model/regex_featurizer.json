@@ -1,0 +1,6 @@
+[
+    {
+        "pattern": "hey[^\\s]*", 
+        "name": "greet"
+    }
+]

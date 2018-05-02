@@ -1,0 +1,1 @@
+{"fixed_model_name": "my_model", "response_log": "log/", "max_number_of_ngrams": "5", "path": "../Codes and More/", "data": "../Codes and More/question_training_data2.json", "max_iterations": "100", "pipeline": "spacy_sklearn", "log_level": "DEBUG", "max_training_processes": "5", "spacy_model_name": "en_core_web_md", "log_file": "../Codes and More/default/log/"}
